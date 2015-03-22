@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/logs/
+/take-a-screenshot-of-webpage.iml
