@@ -66,3 +66,5 @@ The coder illustrated above makes use of the following Maven dependencies.
     </dependency>
   </dependencies>
 ```
+
+Kindly note that the versions used here may not be the latest ones.
